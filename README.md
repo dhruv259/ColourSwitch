@@ -1,7 +1,7 @@
 # Colour Switch
 
 
-This is a replica of the game Colour switch and it includes only one level and the basic gameplay and UI. The sprites were used from [Brackeys GitHub](https://github.com/Brackeys/Color-Switch-Replica) and the scripts are custom.
+This is a replica of the game Colour switch and it includes only one level and the basic gameplay and UI. The sprites were used from open resources and the scripts are custom.
 
 * You can download the windows zip folder and play on your windows device by extracting all the files and the run the application.
 * You can play using WebGL if your browser supports it.
